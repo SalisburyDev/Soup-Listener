@@ -1,0 +1,3 @@
+name: SoupListener
+version: '${project.version}'
+main: dev.salisbury.soup.SoupListener
